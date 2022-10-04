@@ -1,0 +1,1 @@
+cmd_lib/libcrc32c.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o lib/libcrc32c.ko lib/libcrc32c.o lib/libcrc32c.mod.o

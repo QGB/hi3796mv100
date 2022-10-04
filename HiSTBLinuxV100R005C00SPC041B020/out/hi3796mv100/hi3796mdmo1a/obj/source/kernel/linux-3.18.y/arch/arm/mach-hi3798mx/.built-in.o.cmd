@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-hi3798mx/built-in.o :=  arm-histbv310-linux-ld -EL  --no-warn-mismatch   -r -o arch/arm/mach-hi3798mx/built-in.o arch/arm/mach-hi3798mx/core.o arch/arm/mach-hi3798mx/pmu.o arch/arm/mach-hi3798mx/platsmp.o arch/arm/mach-hi3798mx/headsmp.o arch/arm/mach-hi3798mx/hotplug.o 

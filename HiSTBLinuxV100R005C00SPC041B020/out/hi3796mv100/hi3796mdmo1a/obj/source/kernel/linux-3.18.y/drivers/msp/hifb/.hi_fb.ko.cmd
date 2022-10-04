@@ -1,0 +1,1 @@
+cmd_drivers/msp/hifb/hi_fb.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o drivers/msp/hifb/hi_fb.ko drivers/msp/hifb/hi_fb.o drivers/msp/hifb/hi_fb.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/msp/i2c/std_i2c/hi_i2c.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o drivers/msp/i2c/std_i2c/hi_i2c.ko drivers/msp/i2c/std_i2c/hi_i2c.o drivers/msp/i2c/std_i2c/hi_i2c.mod.o

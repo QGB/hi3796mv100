@@ -1,0 +1,1 @@
+cmd_drivers/hisilicon/misc/built-in.o :=  arm-histbv310-linux-ld -EL    -r -o drivers/hisilicon/misc/built-in.o drivers/hisilicon/misc/romblock.o drivers/hisilicon/misc/export_sym.o drivers/hisilicon/misc/part-change.o drivers/hisilicon/misc/i2c-hisi.o drivers/hisilicon/misc/hw_breakpoint.o 

@@ -1,0 +1,1 @@
+cmd_net/ipv6/xfrm6_mode_tunnel.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o net/ipv6/xfrm6_mode_tunnel.ko net/ipv6/xfrm6_mode_tunnel.o net/ipv6/xfrm6_mode_tunnel.mod.o

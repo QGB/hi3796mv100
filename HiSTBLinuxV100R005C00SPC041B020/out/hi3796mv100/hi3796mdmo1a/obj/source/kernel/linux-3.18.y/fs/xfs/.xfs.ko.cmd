@@ -1,0 +1,1 @@
+cmd_fs/xfs/xfs.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o fs/xfs/xfs.ko fs/xfs/xfs.o fs/xfs/xfs.mod.o

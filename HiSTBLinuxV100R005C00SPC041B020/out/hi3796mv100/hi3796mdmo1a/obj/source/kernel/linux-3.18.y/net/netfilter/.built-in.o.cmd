@@ -1,0 +1,1 @@
+cmd_net/netfilter/built-in.o :=  arm-histbv310-linux-ld -EL    -r -o net/netfilter/built-in.o net/netfilter/netfilter.o net/netfilter/nfnetlink.o net/netfilter/nfnetlink_acct.o net/netfilter/nfnetlink_queue.o net/netfilter/x_tables.o net/netfilter/xt_tcpudp.o 

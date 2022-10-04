@@ -1,0 +1,2 @@
+drivers/msp/venc/venc_v1.0/hi_venc.ko
+drivers/msp/venc/venc_v1.0/drv_venc_osal.o drivers/msp/venc/venc_v1.0/drv_venc_intf.o drivers/msp/venc/venc_v1.0/drv_venc.o drivers/msp/venc/venc_v1.0/drv_venc_efl.o drivers/msp/venc/venc_v1.0/drv_omxvenc.o drivers/msp/venc/venc_v1.0/drv_omxvenc_efl.o drivers/msp/venc/venc_v1.0/drv_venc_buf_mng.o drivers/msp/venc/venc_v1.0/drv_venc_queue_mng.o drivers/msp/venc/venc_v1.0/drv_venc_proc.o drivers/msp/venc/venc_v1.0/hal_venc.o

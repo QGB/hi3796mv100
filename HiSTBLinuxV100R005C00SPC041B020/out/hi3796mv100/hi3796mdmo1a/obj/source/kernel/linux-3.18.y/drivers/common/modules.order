@@ -1,0 +1,3 @@
+kernel/drivers/common/hi_media.ko
+kernel/drivers/common/hi_mmz.ko
+kernel/drivers/common/hi_common.ko

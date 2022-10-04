@@ -1,0 +1,2 @@
+drivers/msp/jpeg/hi_jpeg.ko
+drivers/msp/jpeg/src/jpeg_drv_hal.o drivers/msp/jpeg/src/jpeg_drv_proc.o drivers/msp/jpeg/src/jpeg_drv_suspend.o drivers/msp/jpeg/src/jpeg_drv_osr.o drivers/msp/jpeg/src_dec/jpeg_drv_mem.o drivers/msp/jpeg/src_dec/jpeg_drv_parse.o drivers/msp/jpeg/src_dec/jpeg_drv_table.o drivers/msp/jpeg/src_dec/jpeg_drv_setpara.o drivers/msp/jpeg/src_dec/jpeg_drv_dec.o drivers/msp/jpeg/src_dec/jpeg_drv_harddec.o drivers/msp/jpeg/src_dec/jpeg_drv_softdec.o drivers/msp/jpeg/src_dec/jpeg_drv_csc.o

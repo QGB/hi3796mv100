@@ -1,0 +1,2 @@
+kernel/drivers/mmc/host/himciv200/himciv200.ko
+kernel/drivers/mmc/host/himciv200/himciv200_dbg.ko

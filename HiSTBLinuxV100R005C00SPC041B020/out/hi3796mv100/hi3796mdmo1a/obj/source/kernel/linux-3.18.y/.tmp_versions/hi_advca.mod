@@ -1,0 +1,2 @@
+drivers/msp/advca/hi_advca.ko
+drivers/msp/advca/drv_advca_intf.o drivers/msp/advca/drv_advca.o drivers/msp/advca/drv_advca_common.o drivers/msp/advca/V300/hal_advca_v300.o drivers/msp/advca/V300/drv_advca_v300.o drivers/msp/advca/ca_otp/ca_otpv200/drv_ca_otp_v200.o drivers/msp/advca/runtime/sha1.o drivers/msp/advca/runtime/runtime_module.o

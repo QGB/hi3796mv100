@@ -1,0 +1,1 @@
+cmd_arch/arm/boot/uImage := /bin/bash /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/mkuboot.sh -A arm -O linux -C none  -T kernel -a 0x02000000 -e 0x02000000 -n 'Linux-3.18.24_s40' -d arch/arm/boot/zImage-dtb arch/arm/boot/uImage

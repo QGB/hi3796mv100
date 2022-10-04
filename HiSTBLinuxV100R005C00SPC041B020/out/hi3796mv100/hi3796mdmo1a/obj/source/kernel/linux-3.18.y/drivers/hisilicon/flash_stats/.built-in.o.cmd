@@ -1,0 +1,1 @@
+cmd_drivers/hisilicon/flash_stats/built-in.o :=  arm-histbv310-linux-ld -EL    -r -o drivers/hisilicon/flash_stats/built-in.o drivers/hisilicon/flash_stats/flash_stats.o drivers/hisilicon/flash_stats/stats_rwe.o drivers/hisilicon/flash_stats/stats_ecc.o drivers/hisilicon/flash_stats/stats_read_retry.o 

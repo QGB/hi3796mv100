@@ -1,0 +1,1 @@
+cmd_drivers/common/hi_mmz.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o drivers/common/hi_mmz.ko drivers/common/hi_mmz.o drivers/common/hi_mmz.mod.o

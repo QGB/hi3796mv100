@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/ehci-platform.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o drivers/usb/host/ehci-platform.ko drivers/usb/host/ehci-platform.o drivers/usb/host/ehci-platform.mod.o

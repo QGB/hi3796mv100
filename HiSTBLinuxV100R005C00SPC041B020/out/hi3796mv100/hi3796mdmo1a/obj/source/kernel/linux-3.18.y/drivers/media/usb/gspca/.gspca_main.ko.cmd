@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/gspca/gspca_main.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o drivers/media/usb/gspca/gspca_main.ko drivers/media/usb/gspca/gspca_main.o drivers/media/usb/gspca/gspca_main.mod.o

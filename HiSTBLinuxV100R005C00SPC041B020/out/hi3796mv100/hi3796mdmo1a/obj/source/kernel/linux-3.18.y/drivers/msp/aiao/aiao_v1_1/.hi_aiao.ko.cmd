@@ -1,0 +1,1 @@
+cmd_drivers/msp/aiao/aiao_v1_1/hi_aiao.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o drivers/msp/aiao/aiao_v1_1/hi_aiao.ko drivers/msp/aiao/aiao_v1_1/hi_aiao.o drivers/msp/aiao/aiao_v1_1/hi_aiao.mod.o

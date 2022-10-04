@@ -1,0 +1,5 @@
+kernel/drivers/net/ethernet/hieth/mdio.ko
+kernel/drivers/net/ethernet/hieth/hieth.ko
+kernel/drivers/net/ethernet/hieth/phy.ko
+kernel/drivers/net/ethernet/hieth/autoeee.ko
+kernel/drivers/net/ethernet/hieth/hieth_dbg.ko

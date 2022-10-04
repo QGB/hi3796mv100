@@ -1,0 +1,1 @@
+cmd_drivers/msp/cipher/hi_cipher.o := arm-histbv310-linux-ld -EL    -r -o drivers/msp/cipher/hi_cipher.o drivers/msp/cipher/drv_cipher.o drivers/msp/cipher/hal_cipher.o drivers/msp/cipher/drv_cipher_intf.o 

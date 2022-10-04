@@ -1,0 +1,1 @@
+cmd_drivers/common/hi_media.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o drivers/common/hi_media.ko drivers/common/hi_media.o drivers/common/hi_media.mod.o

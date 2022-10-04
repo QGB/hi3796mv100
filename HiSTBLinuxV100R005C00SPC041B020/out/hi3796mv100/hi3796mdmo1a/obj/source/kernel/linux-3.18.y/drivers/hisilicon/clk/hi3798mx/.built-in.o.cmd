@@ -1,0 +1,1 @@
+cmd_drivers/hisilicon/clk/hi3798mx/built-in.o :=  arm-histbv310-linux-ld -EL    -r -o drivers/hisilicon/clk/hi3798mx/built-in.o drivers/hisilicon/clk/hi3798mx/clk-hi3798mv100.o drivers/hisilicon/clk/hi3798mx/clk-hiusb2.o drivers/hisilicon/clk/hi3798mx/clk-hiusb3.o drivers/hisilicon/clk/hi3798mx/clk-hiir.o 

@@ -1,0 +1,1 @@
+cmd_drivers/hisilicon/soc/hi3798mv100/built-in.o :=  arm-histbv310-linux-ld -EL    -r -o drivers/hisilicon/soc/hi3798mv100/built-in.o drivers/hisilicon/soc/hi3798mv100/cpu-hi3798mv100.o drivers/hisilicon/soc/hi3798mv100/hipm.o drivers/hisilicon/soc/hi3798mv100/hipm_sleep.o drivers/hisilicon/soc/hi3798mv100/dt_auxdata.o 

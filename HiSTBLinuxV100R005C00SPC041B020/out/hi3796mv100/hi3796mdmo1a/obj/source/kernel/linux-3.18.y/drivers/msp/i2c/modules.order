@@ -1,0 +1,2 @@
+kernel/drivers/msp/i2c/std_i2c/hi_i2c.ko
+kernel/drivers/msp/i2c/gpio_i2c/hi_gpio_i2c.ko

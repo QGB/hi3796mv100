@@ -1,0 +1,2 @@
+drivers/msp/omxvdec/omxvdec_v1.0/hi_omxvdec.ko
+drivers/msp/omxvdec/omxvdec_v1.0/omxvdec.o drivers/msp/omxvdec/omxvdec_v1.0/channel.o drivers/msp/omxvdec/omxvdec_v1.0/task.o drivers/msp/omxvdec/omxvdec_v1.0/message.o drivers/msp/omxvdec/omxvdec_v1.0/decoder_vfmw.o drivers/msp/omxvdec/omxvdec_v1.0/processor_vpss.o drivers/msp/omxvdec/omxvdec_v1.0/drv_omxvdec_pts_recv.o drivers/msp/omxvdec/omxvdec_v1.0/drv_omxvdec_alg_frd.o

@@ -1,0 +1,1 @@
+cmd_drivers/hisilicon/atags/built-in.o :=  arm-histbv310-linux-ld -EL    -r -o drivers/hisilicon/atags/built-in.o drivers/hisilicon/atags/atags2fdt.o drivers/hisilicon/atags/atags.o drivers/hisilicon/atags/tag-param.o drivers/hisilicon/atags/tag-sdkver.o drivers/hisilicon/atags/tag-net.o drivers/hisilicon/atags/tag-chiptrim.o drivers/hisilicon/atags/tag-emmc.o 

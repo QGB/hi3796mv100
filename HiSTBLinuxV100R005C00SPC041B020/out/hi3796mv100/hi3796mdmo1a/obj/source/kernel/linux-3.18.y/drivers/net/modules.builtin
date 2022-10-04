@@ -1,0 +1,12 @@
+kernel/drivers/net/ethernet/hieth/mdio.ko
+kernel/drivers/net/ethernet/hieth/hieth.ko
+kernel/drivers/net/ethernet/hieth/phy.ko
+kernel/drivers/net/ethernet/hieth/autoeee.ko
+kernel/drivers/net/ethernet/hieth/hieth_dbg.ko
+kernel/drivers/net/phy/libphy.ko
+kernel/drivers/net/ppp/ppp_generic.ko
+kernel/drivers/net/ppp/ppp_async.ko
+kernel/drivers/net/ppp/bsd_comp.ko
+kernel/drivers/net/ppp/ppp_deflate.ko
+kernel/drivers/net/ppp/ppp_synctty.ko
+kernel/drivers/net/slip/slhc.ko

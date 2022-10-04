@@ -1,0 +1,1 @@
+cmd_drivers/staging/android/ion/hisi/built-in.o :=  arm-histbv310-linux-ld -EL    -r -o drivers/staging/android/ion/hisi/built-in.o drivers/staging/android/ion/hisi/hisi_ion_device.o drivers/staging/android/ion/hisi/hisi_ion.o 

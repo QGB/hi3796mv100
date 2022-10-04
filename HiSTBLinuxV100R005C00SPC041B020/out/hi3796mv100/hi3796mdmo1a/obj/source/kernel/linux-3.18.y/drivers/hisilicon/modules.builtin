@@ -1,0 +1,3 @@
+kernel/drivers/hisilicon/atags/tag-emmc.ko
+kernel/drivers/hisilicon/misc/romblock.ko
+kernel/drivers/hisilicon/misc/i2c-hisi.ko

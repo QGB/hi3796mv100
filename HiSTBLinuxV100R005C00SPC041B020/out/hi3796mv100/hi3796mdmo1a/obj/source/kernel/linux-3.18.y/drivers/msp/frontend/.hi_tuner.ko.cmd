@@ -1,0 +1,1 @@
+cmd_drivers/msp/frontend/hi_tuner.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o drivers/msp/frontend/hi_tuner.ko drivers/msp/frontend/hi_tuner.o drivers/msp/frontend/hi_tuner.mod.o

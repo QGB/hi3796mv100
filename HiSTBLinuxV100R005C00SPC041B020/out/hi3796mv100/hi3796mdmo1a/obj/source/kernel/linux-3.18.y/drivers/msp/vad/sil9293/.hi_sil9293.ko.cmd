@@ -1,0 +1,1 @@
+cmd_drivers/msp/vad/sil9293/hi_sil9293.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o drivers/msp/vad/sil9293/hi_sil9293.ko drivers/msp/vad/sil9293/hi_sil9293.o drivers/msp/vad/sil9293/hi_sil9293.mod.o

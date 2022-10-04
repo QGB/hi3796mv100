@@ -1,0 +1,1 @@
+cmd_drivers/hisilicon/clocksource/built-in.o :=  arm-histbv310-linux-ld -EL    -r -o drivers/hisilicon/clocksource/built-in.o drivers/hisilicon/clocksource/timer.o drivers/hisilicon/clocksource/hrtimer_test.o 

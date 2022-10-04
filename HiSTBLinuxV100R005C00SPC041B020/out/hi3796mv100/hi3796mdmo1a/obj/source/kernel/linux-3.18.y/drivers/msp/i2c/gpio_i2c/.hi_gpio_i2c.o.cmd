@@ -1,0 +1,1 @@
+cmd_drivers/msp/i2c/gpio_i2c/hi_gpio_i2c.o := arm-histbv310-linux-ld -EL    -r -o drivers/msp/i2c/gpio_i2c/hi_gpio_i2c.o drivers/msp/i2c/gpio_i2c/drv_gpioi2c_intf.o drivers/msp/i2c/gpio_i2c/drv_gpio_i2c.o 

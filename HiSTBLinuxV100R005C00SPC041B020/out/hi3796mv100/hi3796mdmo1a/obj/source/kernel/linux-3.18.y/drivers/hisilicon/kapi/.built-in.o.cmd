@@ -1,0 +1,1 @@
+cmd_drivers/hisilicon/kapi/built-in.o :=  arm-histbv310-linux-ld -EL    -r -o drivers/hisilicon/kapi/built-in.o drivers/hisilicon/kapi/sem.o drivers/hisilicon/kapi/mem.o drivers/hisilicon/kapi/param.o drivers/hisilicon/kapi/ultohstr.o drivers/hisilicon/kapi/match.o drivers/hisilicon/kapi/pdm.o drivers/hisilicon/kapi/sram.o 

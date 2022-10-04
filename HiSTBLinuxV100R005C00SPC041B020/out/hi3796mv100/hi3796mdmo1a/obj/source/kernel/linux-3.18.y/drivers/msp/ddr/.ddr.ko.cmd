@@ -1,0 +1,1 @@
+cmd_drivers/msp/ddr/ddr.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o drivers/msp/ddr/ddr.ko drivers/msp/ddr/ddr.o drivers/msp/ddr/ddr.mod.o

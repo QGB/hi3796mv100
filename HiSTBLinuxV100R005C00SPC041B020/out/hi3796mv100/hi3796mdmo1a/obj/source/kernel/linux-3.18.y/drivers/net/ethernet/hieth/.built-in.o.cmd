@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/hieth/built-in.o :=  arm-histbv310-linux-ld -EL    -r -o drivers/net/ethernet/hieth/built-in.o drivers/net/ethernet/hieth/mdio.o drivers/net/ethernet/hieth/hieth.o drivers/net/ethernet/hieth/phy.o drivers/net/ethernet/hieth/autoeee.o drivers/net/ethernet/hieth/hieth_dbg.o 

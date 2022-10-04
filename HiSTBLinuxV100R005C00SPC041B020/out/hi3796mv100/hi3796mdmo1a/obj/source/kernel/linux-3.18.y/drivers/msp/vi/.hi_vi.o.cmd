@@ -1,0 +1,1 @@
+cmd_drivers/msp/vi/hi_vi.o := arm-histbv310-linux-ld -EL    -r -o drivers/msp/vi/hi_vi.o drivers/msp/vi/drv_vi_intf.o drivers/msp/vi/drv_vi.o drivers/msp/vi/drv_vi_buf.o drivers/msp/vi/drv_vi_utils.o drivers/msp/vi/drv_vi_proc.o 

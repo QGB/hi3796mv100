@@ -1,0 +1,1 @@
+cmd_drivers/common/hi_mmz.o := arm-histbv310-linux-ld -EL    -r -o drivers/common/hi_mmz.o drivers/common/mmz/drv_mmz_ext_k.o drivers/common/mmz/drv_mmz_intf.o drivers/common/mmz/drv_tzsmmu.o drivers/common/mmz/drv_mmz_userdev.o drivers/common/mmz/drv_media_mem.o 

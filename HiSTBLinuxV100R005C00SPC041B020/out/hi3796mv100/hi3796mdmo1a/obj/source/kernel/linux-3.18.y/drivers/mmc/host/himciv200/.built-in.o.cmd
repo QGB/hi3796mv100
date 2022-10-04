@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/himciv200/built-in.o :=  arm-histbv310-linux-ld -EL    -r -o drivers/mmc/host/himciv200/built-in.o drivers/mmc/host/himciv200/himciv200.o drivers/mmc/host/himciv200/himciv200_dbg.o 

@@ -1,0 +1,1 @@
+cmd_drivers/msp/png/hi_png.o := arm-histbv310-linux-ld -EL    -r -o drivers/msp/png/hi_png.o drivers/msp/png/src/png_osr.o drivers/msp/png/src/png_hal.o drivers/msp/png/src/png_osi.o drivers/msp/png/src/png_osires.o drivers/msp/png/src/png_proc.o 

@@ -1,0 +1,1 @@
+cmd_drivers/msp/vpss/hi_vpss.ko := arm-histbv310-linux-ld -EL -r  -T /home/qgb/github/hi3796mv100/HiSTBLinuxV100R005C00SPC041B020/source/kernel/linux-3.18.y/scripts/module-common.lds --build-id  -o drivers/msp/vpss/hi_vpss.ko drivers/msp/vpss/hi_vpss.o drivers/msp/vpss/hi_vpss.mod.o
